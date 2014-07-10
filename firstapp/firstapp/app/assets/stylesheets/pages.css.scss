@@ -1,0 +1,27 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+
+	width: 90%;
+	margin: 0 auto;
+	
+	font-family: 'Maven+pro';
+    font-size: 15px;
+   	color: black;
+    border-bottom: 4px solid #394047;
+   
+
+}
+
+.nav {
+    font-family: 'Maven+pro';
+    float: right;
+    margin: 20px;
+    word-spacing: 10px;
+}
+
+.title {
+margin: 20px;
+font-size: 24px;
+}
