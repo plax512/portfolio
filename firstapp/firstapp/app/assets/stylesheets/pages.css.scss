@@ -5,9 +5,8 @@
 
 	width: 90%;
 	margin: 0 auto;
-	
-	font-family: 'Maven+pro';
-    font-size: 15px;
+	font-family: 'Maven Pro', sans-serif;
+    font-size: 14px;
    	color: black;
     border-bottom: 4px solid #394047;
    
@@ -15,13 +14,23 @@
 }
 
 .nav {
-    font-family: 'Maven+pro';
+	width: 70%;
+    font-family: 'Maven Pro', sans-serif;
     float: right;
-    margin: 20px;
+    margin: 7px;
     word-spacing: 10px;
+   
+    
+}
+
+a:hover
+{
+color:orange;
 }
 
 .title {
+width: 25%;
 margin: 20px;
-font-size: 24px;
+font-size: 20px;
 }
+
